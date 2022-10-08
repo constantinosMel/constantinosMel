@@ -13,5 +13,5 @@
 
 ---
 
-- :iphone: I’m currently working as an iOS Developer for <a href="https://www.kahoot.com">Kahoot!</a> making learning awesome!
+- :iphone: I’m currently working as an iOS Developer for <a href="https://www.kahoot.com">Kahoot!</a>!
 - :round_pushpin: Oslo, Norway
