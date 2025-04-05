@@ -1,17 +1,9 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/y93slPbDMdeXJQONHa/giphy.gif" width="100"/>
-</div>
+# Hey there! 👋
+I'm Konstantinos Meletiou, a passionate developer and tech enthusiast. Welcome to my GitHub! Here, you'll find my projects, experiments, and contributions to the world of code.
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/konstantinosmeletiou/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/k_meletiou">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
+🌐 Check out my personal site [kmeletiou.me](https://kmeletiou.me/)
 
----
 
-- :iphone: I’m currently working as a tech lead iOS Developer for <a href="https://www.kahoot.com">Kahoot!</a>!
-- :round_pushpin: Oslo, Norway
+💻 I love building things with code and solving real-world problems.
+
+Feel free to reach out if you'd like to collaborate!
